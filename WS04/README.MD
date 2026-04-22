@@ -1,1 +1,1 @@
-Tämä on työpaja WS03 kansio
+Tämä on työpaja WS04 kansio
